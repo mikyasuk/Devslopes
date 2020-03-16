@@ -13,3 +13,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 Phil and mike are enjoying git Chicken
+
+Hello = 100
