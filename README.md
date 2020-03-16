@@ -10,3 +10,6 @@ git remote add origin git@github.com:mikyasuk/Devslopes.git
 git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project
+
+
+Phil and mike are enjoying git Chicken
